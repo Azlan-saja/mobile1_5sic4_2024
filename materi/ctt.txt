@@ -1,0 +1,42 @@
+Kondisi 		Pernyataan
+=====================
+Nilai >= 80	Yudisium A 	=> IF
+Nilai >= 70	Yudisium B	=> ELSE IF
+Nilai >= 60	Yudisium C	=> ELSE IF
+Nilai <= 59	Yudisium D	=> ELSE
+
+===================
+2x1 = 2
+2x2 = 4
+2x3 = 6
+
+============================
+Framework Flutter
+--------------------------------------------------
+A. Buat project baru VS Code
+-------------------------------------------
+1. Pilih menu VIEW => Command Palette (Ctrl + Shift + P)
+2. Ketikkan "Flutter New Project"
+3. Template, pilih "Aplication"
+4. Lokasi penyimpanan project.
+5. Ketikkan name project "mobile1_5sic4_2024"
+6. Tekan ENTER.
+
+------------------------------------------
+B. Run project tersebut
+------------------------------------------
+1. Pilih EMULATOR
+2. Pilih menu VIEW => Command Palette (Ctrl + Shift + P)
+3. Ketikkan "Flutter Select Device"
+4. Pilih "Chrome"
+5. Pilih Run => Start Debugging
+
+
+
+
+
+
+
+
+
+
