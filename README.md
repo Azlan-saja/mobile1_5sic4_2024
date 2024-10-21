@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Azlan</h1>
-<h3 align="center">AZLAN, lahir di Panipahan, pada tanggal 19 Januari 1992. Menempuh Pendidikan Strata Satu (S1) di STMIK Budi Dharma Medan dan lulus pada tahun 2014. Kemudian melanjutkan pendidikan Strata Dua (S2) di Program Studi Teknik Informatika UPI YPTK Padang dan lulus pada tahun 2016. Pengalaman, pernah bekerja sebagai tutor di Budidarma Programming Club dan Dosen di STMIK GICI tahun 2016 s/d 2017. Saat ini saya mengabdikan diri sebagai Dosen di STMIK Triguna Dharma dengan mengajar mata kuliah Pemrograman.</h3>
+<h3 align="center">AZLAN, lahir di Panipahan, pada tanggal 19 Januari 1992. Menempuh Pendidikan Strata Satu (S1) di STMIK Budi Dharma Medan dan lulus pada tahun 2014. Kemudian melanjutkan pendidikan Strata Dua (S2) di Program Studi Teknik Informatika UPI YPTK Padang dan lulus pada tahun 2016. </h3> <br/>  
+<h3 align="center">Pengalaman, pernah bekerja sebagai tutor di Budidarma Programming Club dan Dosen di STMIK GICI tahun 2016 s/d 2017. Saat ini saya mengabdikan diri sebagai Dosen di STMIK Triguna Dharma dengan mengajar mata kuliah Pemrograman.</h3>
 
-- 👨‍💻 All of my projects are available at [https://azlansaja.web.id/portofolio/azlan](https://azlansaja.web.id/portofolio/azlan)
+- 👨‍💻Sebagian project [https://azlansaja.web.id/plugin](https://azlansaja.web.id/plugin)
 
-- 📝 I regularly write articles on [https://azlansaja.web.id/blog](https://azlansaja.web.id/blog)
+- 📝 Tulisan saya [https://azlansaja.web.id/blog](https://azlansaja.web.id/blog)
 
 - 📫 How to reach me **azlansaja19@gmail.com**
+
+- 📄 Portofolio [https://azlansaja.web.id/portofolio/azlan](https://azlansaja.web.id/portofolio/azlan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
