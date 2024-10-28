@@ -34,6 +34,21 @@ B. Run project tersebut
 
 WIDGET
 ========================
+NamaWidget (
+	namaProperties1: value1,
+	namaProperties2: value2,
+	namaProperties3: value3,
+)
+========================
+NamaWidget (
+	namaProperties1: value1,
+	namaProperties2: NamaWidget (
+						namaProperties1: value1,
+						namaProperties2: value2,
+						namaProperties3: value3,
+					),
+	namaProperties3: value3,
+)
 
 
 
