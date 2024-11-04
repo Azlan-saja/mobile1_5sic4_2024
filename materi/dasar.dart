@@ -18,10 +18,10 @@ void main() {
   // Print Kalkulator Sederhana
   int num1 = 8;
   int num2 = 2;
-  int hasil_tambah = num1 + num2;
-  print("Kalkulator Tambah => $num1 + $num2 = $hasil_tambah");
-  int hasil_kurang = num1 - num2;
-  print("Kalkulator Kurang => $num1 - $num2 = $hasil_kurang");
-  double hasil_bagi = num1 / num2;
-  print("Kalkulator Kurang => $num1 - $num2 = $hasil_bagi");
+  int hasilTambah = num1 + num2;
+  print("Kalkulator Tambah => $num1 + $num2 = $hasilTambah");
+  int hasilKurang = num1 - num2;
+  print("Kalkulator Kurang => $num1 - $num2 = $hasilKurang");
+  double hasilBagi = num1 / num2;
+  print("Kalkulator Kurang => $num1 - $num2 = $hasilBagi");
 }

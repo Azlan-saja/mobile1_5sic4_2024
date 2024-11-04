@@ -12,13 +12,18 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
+        useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.blue,
+          seedColor: Colors.purple,         
         ),
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Aplikasi 5SIC4'),
+          title: const Text('Aplikasi 5SIC4'),
+          backgroundColor: Theme.of(context).colorScheme.inversePrimary,
+        ),
+        body: const Center(
+          child: Text('Ini layer body'),
         ),
       ),
     );
