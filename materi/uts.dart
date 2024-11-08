@@ -27,5 +27,6 @@ void luas(int panjang, int lebar) {
 
 void diagonal(int panjang, int lebar) {
   double hasil = sqrt(pow(panjang, 2) + pow(lebar, 2));
-  print('Hasil Diagonal => Akar $panjang^2 + $lebar^2 = ${hasil.toStringAsFixed(2)} cm');
+  print(
+      'Hasil Diagonal => Akar $panjang^2 + $lebar^2 = ${hasil.toStringAsFixed(2)} cm');
 }
