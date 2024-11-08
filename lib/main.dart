@@ -30,6 +30,15 @@ class MyApp extends StatelessWidget {
           padding: const EdgeInsets.all(16),
           child: Column(
             children: [
+              const Text(
+                'HITUNG PERSEGI PANJANG',
+                style: TextStyle(
+                  fontSize: 24,
+                ),
+              ),
+              const SizedBox(
+                height: 22,
+              ),
               TextFormField(
                 controller: nilaiPanjang,
                 decoration: const InputDecoration(
@@ -50,6 +59,9 @@ class MyApp extends StatelessWidget {
                       int.parse(nilaiPanjang.text) * int.parse(nilaiLebar.text);
                   hasilLuas.text = xhasil.toString();
                 },
+                style: ElevatedButton.styleFrom(
+                    backgroundColor:
+                        Theme.of(context).colorScheme.inversePrimary),
                 child: const Text('Luas'),
               ),
               TextFormField(
